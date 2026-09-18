@@ -1,0 +1,20 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Este diretório contém as atividades de sala da disciplina de Programação Orientada a Objetos (POO) da UNIFESP, ministrada em TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelhova-unifesp/POO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelhova-unifesp/POO/issues"
+  },
+  "homepage": "https://github.com/miguelhova-unifesp/POO#readme"
+}
